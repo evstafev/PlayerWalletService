@@ -1,0 +1,17 @@
+# User-specific files
+.idea/
+.vs/
+.DS_Store
+*.suo
+*.user
+
+# NPM packages (any path)
+node_modules/
+
+# Nuget packages (root only)
+/packages/
+
+# MSBuild artifacts (any path)
+bin/
+obj/
+

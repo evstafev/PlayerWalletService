@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet.Api", "PlayerWallet.Api\PlayerWallet.Api.csproj", "{2298D0A3-83D4-41BB-A24D-87AFB97C94FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet.Model", "PlayerWallet.Model\PlayerWallet.Model.csproj", "{4CD65605-9B8A-4E87-8327-368D25A98A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet.Repository", "PlayerWallet.Repository\PlayerWallet.Repository.csproj", "{D01758DF-E71C-4348-89F6-07CECDDF288C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerWallet.Model.Tests", "PlayerWallet.Model.Tests\PlayerWallet.Model.Tests.csproj", "{41C419B0-43B3-47F2-B207-F7A655CEEDAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{B480F9C2-D6E7-4417-A3E2-3D16823A7C52}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2298D0A3-83D4-41BB-A24D-87AFB97C94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2298D0A3-83D4-41BB-A24D-87AFB97C94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2298D0A3-83D4-41BB-A24D-87AFB97C94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2298D0A3-83D4-41BB-A24D-87AFB97C94FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD65605-9B8A-4E87-8327-368D25A98A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD65605-9B8A-4E87-8327-368D25A98A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD65605-9B8A-4E87-8327-368D25A98A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD65605-9B8A-4E87-8327-368D25A98A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01758DF-E71C-4348-89F6-07CECDDF288C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01758DF-E71C-4348-89F6-07CECDDF288C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01758DF-E71C-4348-89F6-07CECDDF288C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01758DF-E71C-4348-89F6-07CECDDF288C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C419B0-43B3-47F2-B207-F7A655CEEDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C419B0-43B3-47F2-B207-F7A655CEEDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C419B0-43B3-47F2-B207-F7A655CEEDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C419B0-43B3-47F2-B207-F7A655CEEDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

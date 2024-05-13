@@ -1,0 +1,1 @@
+.NET8 is required to launch this service. The service can be tested via Swagger UI. 
